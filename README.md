@@ -1,4 +1,6 @@
-Quem nunca jogou Jokenpô? Famoso, Predra, Papel e Tesoura...
+### Quem nunca jogou Jokenpô? Famoso, Predra, Papel e Tesoura...
+
+-------------------------------------
 
 O código foi feito durante as aulas do curso Dev Samurai, com o professor Felipe Fontoura.
 Fiz uma alteração importante, na função de SetTimeOut, mudando de 3500 para 1000.
